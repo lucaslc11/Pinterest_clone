@@ -9,6 +9,7 @@
     .text {
         font-size: 60px;
         font-weight: 600;
+        color: $red;
     }
 
     .wrapper {
@@ -19,13 +20,25 @@
             top: 0;
             left: 0;
             transform: translateX(-50%);
-        }
+
+            .text-food {
+                color: #47d147;
+            }
+
+            .text-travel {
+                color: #005ce6;
+            }
+
+            .text-moda {
+                color: #b3b300;
+            }
 
         .text {
             white-space: nowrap;
-            color: $red;
 
             transition-duration: 1s;
+        }
+
         }
     }
 }
