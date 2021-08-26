@@ -13,7 +13,7 @@
 
 <h1>Como usar ⚙</h1>
 
-Você pode rodar essa aplicação usando a extensão do `VScode` chamado `Live Server` ou o live-server intalado em sua máquina.
+Você pode rodar essa aplicação usando a extensão do `VScode` chamado `Live Server` ou o live-server instalado em sua máquina.
 
 ```bash
 #Primeiramente clone este repositório
