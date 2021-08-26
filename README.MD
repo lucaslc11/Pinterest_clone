@@ -6,7 +6,7 @@
 
 <h2>Layout</h2>
 
-<img src="./img/pinterest.gif">
+<img align="center" src="./img/pinterest.gif">
 
 <br />
 <br />
