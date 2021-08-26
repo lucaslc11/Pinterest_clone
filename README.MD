@@ -4,7 +4,7 @@
 
 <br />
 
-<h2 margin-left="200">Layout</h2>
+<h2 margin-left="200px">Layout</h2>
 
 <div align="center"><img src="./img/pinterest.gif"></div>
 
