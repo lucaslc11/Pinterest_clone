@@ -1,6 +1,6 @@
 <h1 align="center">Pinterest Clone</h1>
 
-<h3 align="center">Um pequeno projeto clona a lading page do Pinterest</h3>
+<h3 align="center">Um pequeno projeto de clonar a lading page do Pinterest</h3>
 
 <br />
 
